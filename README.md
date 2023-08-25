@@ -1,6 +1,3 @@
-# IBM-Final-Assignment-Part-2#!/usr/bin/env python
-# coding: utf-8
-
 # In[ ]:
 
 
